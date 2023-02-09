@@ -1,0 +1,21 @@
+HELO usal.es
+MAIL FROM <pepe>
+MAIL FROM: <Smith@Alpha.ARPA>
+RCPT TO: <Jones@Beta.ARPA>
+RCPT TO: <Brown@Beta.ARPA>
+DATOS
+DATA
+Texto de mi correo 2.
+Linea 2 de mi correo en ordenes2.txt
+.
+MAIL FROM: <manolo.usal.es>
+MAIL FROM: <manolo@usal.es>
+RCPT TO <cristina@usal.es>
+RCPT TO: <cristina@usal.es>
+DATA
+Texto de mi correo 22.
+DATA
+Linea 2 de mi correo en ordenes2.txt
+.
+QUIT
+

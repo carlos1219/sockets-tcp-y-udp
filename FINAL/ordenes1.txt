@@ -1,0 +1,11 @@
+HOLA usal.es
+HELO usal.es
+MAIL FROM: <Smith@Alpha.ARPA>
+DATA
+RCPT TO: <Jones@Beta.ARPA>
+DATA
+Texto de mi correo en ordenes1.txt
+Linea 2 de mi correo en ordenes1.txt
+.
+QUIT
+

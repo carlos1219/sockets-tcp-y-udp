@@ -1,0 +1,21 @@
+Connected to nogal on port 46226 at Tue Dec 13 19:31:26 2022
+Envio >>>> HOLA usal.es
+Recibo error >>>> 500
+Envio >>>> HELO usal.es
+Recibo >>>> 200
+Envio >>>> MAIL FROM: <Smith@Alpha.ARPA>
+Recibo >>>> 200
+Envio >>>> DATA
+Recibo error >>>> 500
+Envio >>>> RCPT TO: <Jones@Beta.ARPA>
+Recibo >>>> 200
+Envio >>>> DATA
+Recibo >>>> 200
+Envio >>>> Texto de mi correo en ordenes1.txt
+Recibo >>>> 200
+Envio >>>> Linea 2 de mi correo en ordenes1.txt
+Recibo >>>> 200
+Envio >>>> .
+Recibo >>>> 200
+Envio >>>> QUIT
+Recibo >>>> 221

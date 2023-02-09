@@ -1,0 +1,404 @@
+
+Conexion realizada a Tue Dec 13 19:31:26 2022
+Nombre del servidor e IP y puerto: nogal.fis.usal.es ***********************SERVER TCP*********************** IPCliente y puerto: 212.128.144.105/46218
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> HELO usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 500
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> MAIL FROM: <Smith@Alpha.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <Brown@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> Texto de mi primer correo.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> Linea 2 de mi correo en ordenes.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> MAIL FROM: <pp@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <juan@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> Texto de mi segundo correo.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> Linea 2 de mi segundo correo en ordenes.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 200
+
+212.128.144.105/46218 envia a nogal.fis.usal.es >>TCP>> QUIT
+
+nogal.fis.usal.es envia a 212.128.144.105/46218 >>TCP>> 221
+Completed hostname port 46218, at Tue Dec 13 19:31:26 2022
+------------------------------------
+
+Conexion realizada a Tue Dec 13 19:31:26 2022
+Nombre del servidor e IP y puerto: nogal.fis.usal.es ***********************SERVER TCP*********************** IPCliente y puerto: 212.128.144.105/46226
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> HOLA usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 500
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> HELO usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 200
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> MAIL FROM: <Smith@Alpha.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 200
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 500
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 200
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 200
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> Texto de mi correo en ordenes1.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 200
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> Linea 2 de mi correo en ordenes1.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 200
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 200
+
+212.128.144.105/46226 envia a nogal.fis.usal.es >>TCP>> QUIT
+
+nogal.fis.usal.es envia a 212.128.144.105/46226 >>TCP>> 221
+Completed hostname port 46226, at Tue Dec 13 19:31:26 2022
+------------------------------------
+
+Conexion realizada a Tue Dec 13 19:31:26 2022
+Nombre del servidor e IP y puerto: nogal.fis.usal.es ***********************SERVER TCP*********************** IPCliente y puerto: 212.128.144.105/46228
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> HELO usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> MAIL FROM <pepe>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 500
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> MAIL FROM: <Smith@Alpha.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <Brown@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> DATOS
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 500
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> Texto de mi correo 2.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> Linea 2 de mi correo en ordenes2.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> MAIL FROM: <manolo.usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 500
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> MAIL FROM: <manolo@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> RCPT TO <cristina@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 500
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> RCPT TO: <cristina@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> Texto de mi correo 22.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> DATA
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> Linea 2 de mi correo en ordenes2.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 200
+
+212.128.144.105/46228 envia a nogal.fis.usal.es >>TCP>> QUIT
+
+nogal.fis.usal.es envia a 212.128.144.105/46228 >>TCP>> 221
+Completed hostname port 46228, at Tue Dec 13 19:31:26 2022
+------------------------------------
+He recibido una solicitud de Conexion 
+
+
+Conexion realizada a Tue Dec 13 19:31:26 2022
+Nombre del servidor e IP: nogal.fis.usal.es ***********************SERVER UDP*********************** IPCliente y puerto: 212.128.144.105/47222
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> HELO usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 500
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> MAIL FROM: <Smith@Alpha.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <Brown@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> Texto de mi primer correo.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> Linea 2 de mi correo en ordenes.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> MAIL FROM: <pp@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <juan@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> Texto de mi segundo correo.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> Linea 2 de mi segundo correo en ordenes.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 200
+
+212.128.144.105/47222 envia a nogal.fis.usal.es >>UDP>> QUIT
+
+nogal.fis.usal.es envia a 212.128.144.105/47222 >>UDP>> 221
+Completed hostname port 47222, at Tue Dec 13 19:31:26 2022
+------------------------------------
+He recibido una solicitud de Conexion 
+
+
+Conexion realizada a Tue Dec 13 19:31:26 2022
+Nombre del servidor e IP: nogal.fis.usal.es ***********************SERVER UDP*********************** IPCliente y puerto: 212.128.144.105/50407
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> HOLA usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 500
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> HELO usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 200
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> MAIL FROM: <Smith@Alpha.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 200
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 500
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 200
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 200
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> Texto de mi correo en ordenes1.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 200
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> Linea 2 de mi correo en ordenes1.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 200
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 200
+
+212.128.144.105/50407 envia a nogal.fis.usal.es >>UDP>> QUIT
+
+nogal.fis.usal.es envia a 212.128.144.105/50407 >>UDP>> 221
+Completed hostname port 50407, at Tue Dec 13 19:31:26 2022
+------------------------------------
+He recibido una solicitud de Conexion 
+
+
+Conexion realizada a Tue Dec 13 19:31:26 2022
+Nombre del servidor e IP: nogal.fis.usal.es ***********************SERVER UDP*********************** IPCliente y puerto: 212.128.144.105/45626
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> HELO usal.es
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> MAIL FROM <pepe>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 500
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> MAIL FROM: <Smith@Alpha.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <Jones@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <Brown@Beta.ARPA>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> DATOS
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 500
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> Texto de mi correo 2.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> Linea 2 de mi correo en ordenes2.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> MAIL FROM: <manolo.usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 500
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> MAIL FROM: <manolo@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> RCPT TO <cristina@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 500
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> RCPT TO: <cristina@usal.es>
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> DATA
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> Texto de mi correo 22.
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> DATA
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> Linea 2 de mi correo en ordenes2.txt
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> .
+Recibiendo el mensaje
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 200
+
+212.128.144.105/45626 envia a nogal.fis.usal.es >>UDP>> QUIT
+
+nogal.fis.usal.es envia a 212.128.144.105/45626 >>UDP>> 221
+Completed hostname port 45626, at Tue Dec 13 19:31:26 2022
+------------------------------------

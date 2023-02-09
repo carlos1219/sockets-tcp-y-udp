@@ -1,0 +1,42 @@
+Envio peticion de conexion ---> He establecido conexion
+Connected to nogal on port 45626 at Tue Dec 13 19:31:26 2022
+Envio >>> HELO usal.es
+Recibo >>>> 200
+Envio >>> MAIL FROM <pepe>
+Recibo error >>>> 500
+Envio >>> MAIL FROM: <Smith@Alpha.ARPA>
+Recibo >>>> 200
+Envio >>> RCPT TO: <Jones@Beta.ARPA>
+Recibo >>>> 200
+Envio >>> RCPT TO: <Brown@Beta.ARPA>
+Recibo >>>> 200
+Envio >>> DATOS
+Recibo error >>>> 500
+Envio >>> DATA
+Recibo >>>> 200
+Envio >>> Texto de mi correo 2.
+Recibo >>>> 200
+Envio >>> Linea 2 de mi correo en ordenes2.txt
+Recibo >>>> 200
+Envio >>> .
+Recibo >>>> 200
+Envio >>> MAIL FROM: <manolo.usal.es>
+Recibo error >>>> 500
+Envio >>> MAIL FROM: <manolo@usal.es>
+Recibo >>>> 200
+Envio >>> RCPT TO <cristina@usal.es>
+Recibo error >>>> 500
+Envio >>> RCPT TO: <cristina@usal.es>
+Recibo >>>> 200
+Envio >>> DATA
+Recibo >>>> 200
+Envio >>> Texto de mi correo 22.
+Recibo >>>> 200
+Envio >>> DATA
+Recibo >>>> 200
+Envio >>> Linea 2 de mi correo en ordenes2.txt
+Recibo >>>> 200
+Envio >>> .
+Recibo >>>> 200
+Envio >>> QUIT
+Recibo >>>> 221
